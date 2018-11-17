@@ -1,0 +1,4 @@
+
+https://www.capitalbikeshare.com/system-data
+https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset#
+https://archive.ics.uci.edu/ml/machine-learning-databases/00275/
