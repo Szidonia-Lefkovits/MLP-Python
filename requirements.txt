@@ -45,7 +45,7 @@ mkl_random=1.0.1=py37h77b88f5_1
 msys2-conda-epoch=20160418=1
 nbconvert=5.3.1=py37_0
 nbformat=4.4.0=py37_0
-notebook=5.7.0=py37_0
+notebook~>5.7.2=py37_0
 numpy=1.15.3=py37ha559c80_0
 numpy-base=1.15.3=py37h8128ebf_0
 openssl=1.0.2p=hfa6e2cd_0
